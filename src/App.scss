@@ -1,0 +1,19 @@
+@import "./scss/bootstrap";
+@import "./scss/auth";
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+body{
+    // background-color: rgba(128, 255, 0, 0.767);
+    background-image: url(./pages/Auth/cover15_kfbuwa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

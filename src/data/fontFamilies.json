@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Arial",
+        "value": "sans-serif"
+    },
+    {
+        "name": "Verdana",
+        "value": "sans-serif"
+    },
+    {
+        "name": "Tahoma",
+        "value": "sans-serif"
+    },
+    {
+        "name": "Trebuchet MS",
+        "value": "sans-serif"
+    },
+    {
+        "name": "Times New Roman",
+        "value": "serif"
+    },
+    {
+        "name": "Georgia",
+        "value": "serif"
+    },
+    {
+        "name": "Garamond",
+        "value": "serif"
+    },
+    {
+        "name": "Courier New",
+        "value": "monospace"
+    },
+    {
+        "name": "Brush Script MT",
+        "value": "cursive"
+    }
+]
